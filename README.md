@@ -136,8 +136,8 @@ Python、PHP、JavaScript、C++、Javaなど様々な言語でサポートされ
     “name” : “山田太郎”,
     “department” : “営業部”,
     “position” : “課長”,
-    “joindDate” : “1994年1月1日”,
-    “annualSalary” : “5000000円”
+    “joinedDate” : “1994年1月1日”,
+    “annualSalaryInYen” : 5000000
 }
 ```
 JSONは {} の中にキーと値をコロンで区切って記述する
